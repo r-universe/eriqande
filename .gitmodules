@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CKMRpop"]
+	path = CKMRpop
+	url = https://github.com/eriqande/ckmrpop
+	shallow = true
+	registered = true
+[submodule "gaiah"]
+	path = gaiah
+	url = https://github.com/eriqande/gaiah
+	shallow = true
+	registered = true
+[submodule "rubias"]
+	path = rubias
+	url = https://github.com/eriqande/rubias
+	shallow = true
+	registered = true
+[submodule "whoa"]
+	path = whoa
+	url = https://github.com/eriqande/whoa
+	shallow = true
+	registered = true
