@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "CKMRpop"]
-	path = CKMRpop
-	url = https://github.com/eriqande/ckmrpop
 [submodule "gaiah"]
 	path = gaiah
 	url = https://github.com/eriqande/gaiah
