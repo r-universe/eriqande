@@ -5,9 +5,6 @@
 [submodule "gscramble"]
 	path = gscramble
 	url = https://github.com/eriqande/gscramble
-[submodule "rubias"]
-	path = rubias
-	url = https://github.com/eriqande/rubias
 [submodule "whoa"]
 	path = whoa
 	url = https://github.com/eriqande/whoa
